@@ -8,7 +8,7 @@ The University Orientation API is designed to assist Tunisian students in naviga
 - Explore a wide range of universities and academic programs.
 - Access detailed information about each option to support informed decision-making
    
-2. **Career Path Insights** Afghanistan with a happiness score of 1.72.
+2. **Career Path Insights** 
 - Receive personalized career path recommendations based on academic performance and career interests.
 - Align educational choices with future job prospects.
 
